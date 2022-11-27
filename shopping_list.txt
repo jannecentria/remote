@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 juustoa
-kinkkua muokattu
+kinkkua muokat
 =======
 juustoa muokat
 kinkkua
